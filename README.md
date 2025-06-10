@@ -9,7 +9,7 @@ GUVI Hackathon Project:<br>
 This is a collobrative work done by Aakarsh, Ishita, Madhav and Sparsh of Galgotias University, B.Tech 2nd Sem, Section 11 and uploaded here.
 
 # USAGE EXAMPLE (click below to watch)
-## reservedUser:pass => cmpadmin:@123 and bot<number>:botpass
+## reservedUser:pass => cmpadmin:@123 and bot(number):botpass
 [![USAGE](https://i.ibb.co/93yJ1gMr/Black-and-Pink-Gradient-Modern-Technologies-You-Tube-Thumbnail.png)](https://youtu.be/2oM0aT-czrI "USAGE - Click to Watch!")
 
 # IMPORTANT
