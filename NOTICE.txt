@@ -1,0 +1,15 @@
+Copyright (c) 2025 Code Monarch
+
+All rights reserved.
+
+This codebase is the intellectual property of the Code Monarch development team:
+Aakarsh Singhal, Ishita Rawat, Sparsh Dutta, and Madhav Aggarwal.
+
+This project is intended solely for internal use and academic or supervisory review.
+Reproduction, distribution, modification, or use of this software — in whole or in part —
+is strictly prohibited without the express written permission of the authors.
+
+Attribution to the full development team is required in any permitted reference,
+derivative work, or citation.
+
+For usage inquiries or permissions, please contact us.
